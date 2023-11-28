@@ -98,6 +98,8 @@ void wczytanieObrazuZPliku( struct obraz *obrazek)
 	{
 		
 		fclose(plik);
+
+		//juju
 	}*/
 }
 
